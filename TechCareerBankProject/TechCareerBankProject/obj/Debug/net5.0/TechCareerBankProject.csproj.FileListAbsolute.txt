@@ -1,0 +1,16 @@
+C:\Users\Merve BİNGÖL\Source\Repos\TechCareerBankProject\TechCareerBankProject\bin\Debug\net5.0\TechCareerBankProject.exe
+C:\Users\Merve BİNGÖL\Source\Repos\TechCareerBankProject\TechCareerBankProject\bin\Debug\net5.0\TechCareerBankProject.deps.json
+C:\Users\Merve BİNGÖL\Source\Repos\TechCareerBankProject\TechCareerBankProject\bin\Debug\net5.0\TechCareerBankProject.runtimeconfig.json
+C:\Users\Merve BİNGÖL\Source\Repos\TechCareerBankProject\TechCareerBankProject\bin\Debug\net5.0\TechCareerBankProject.runtimeconfig.dev.json
+C:\Users\Merve BİNGÖL\Source\Repos\TechCareerBankProject\TechCareerBankProject\bin\Debug\net5.0\TechCareerBankProject.dll
+C:\Users\Merve BİNGÖL\Source\Repos\TechCareerBankProject\TechCareerBankProject\bin\Debug\net5.0\ref\TechCareerBankProject.dll
+C:\Users\Merve BİNGÖL\Source\Repos\TechCareerBankProject\TechCareerBankProject\bin\Debug\net5.0\TechCareerBankProject.pdb
+C:\Users\Merve BİNGÖL\Source\Repos\TechCareerBankProject\TechCareerBankProject\obj\Debug\net5.0\TechCareerBankProject.csproj.AssemblyReference.cache
+C:\Users\Merve BİNGÖL\Source\Repos\TechCareerBankProject\TechCareerBankProject\obj\Debug\net5.0\TechCareerBankProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Merve BİNGÖL\Source\Repos\TechCareerBankProject\TechCareerBankProject\obj\Debug\net5.0\TechCareerBankProject.AssemblyInfoInputs.cache
+C:\Users\Merve BİNGÖL\Source\Repos\TechCareerBankProject\TechCareerBankProject\obj\Debug\net5.0\TechCareerBankProject.AssemblyInfo.cs
+C:\Users\Merve BİNGÖL\Source\Repos\TechCareerBankProject\TechCareerBankProject\obj\Debug\net5.0\TechCareerBankProject.csproj.CoreCompileInputs.cache
+C:\Users\Merve BİNGÖL\Source\Repos\TechCareerBankProject\TechCareerBankProject\obj\Debug\net5.0\TechCareerBankProject.dll
+C:\Users\Merve BİNGÖL\Source\Repos\TechCareerBankProject\TechCareerBankProject\obj\Debug\net5.0\ref\TechCareerBankProject.dll
+C:\Users\Merve BİNGÖL\Source\Repos\TechCareerBankProject\TechCareerBankProject\obj\Debug\net5.0\TechCareerBankProject.pdb
+C:\Users\Merve BİNGÖL\Source\Repos\TechCareerBankProject\TechCareerBankProject\obj\Debug\net5.0\TechCareerBankProject.genruntimeconfig.cache
